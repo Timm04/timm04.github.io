@@ -1,0 +1,35 @@
+site_name: The제국Way
+site_url: https://mydomain.org/mysite
+theme:
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+      primary: grey
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+      primary: deep purple
+  
+  name: material
+  language: en
+  logo: assets/chrome_LGqRWohU2A.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+  icon:
+    repo: fontawesome/brands/git
+
+repo_url: https://github.com/Timm04/timm04.github.io.git
+
+plugins:
+  - offline
