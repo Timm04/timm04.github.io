@@ -13,18 +13,18 @@ Once installed, it will open a new tab page, just close it for now so we don't c
 When you first install Yomitan, you need to load dictionaries into it in order to use it.  
 These files use the `.zip` extension and **are not to be extracted by the user.**
 
-I recommend you install the following dictionaries. If you are comfortable enough in Japanese then always take the Japanese version as its more accurate then the English ones.
+I recommend you install the following dictionaries. If you are comfortable enough in Japanese then always take the Japanese version as its more accurate then the English ones.  
 
 [KRDICT, Naver, STDICT](https://github.com/peldas/yomitan-dicts/releases/tag/yomitan-dicts-v1.1.1)  
 [Frequency](https://github.com/Lyroxide/yomitan-ko-dic/releases/tag/1.0.0)
 
-For people who know Japanese:  
+For people who know Japanese, install all of these:  
 - `KRDICT-JA-hanja.v1.3.3-with-pronunciation.zip`  
 - `Naver-JA-hanja.v1.0.3-with-pronunciation.zip`  
 - `kpedia.v1.0.0.zip`  
 - `Frequency.CC100.Korean.zip`  
 
-For people who don't know Japanese:  
+For people who don't know Japanese, install all of these:  
 - `KRDICT-EN-hanja.v1.0.3-with-pronunciation.zip`  
 - `Frequency.CC100.Korean.zip`  
 
@@ -90,6 +90,6 @@ Your end result should look something like this:
 3. Click on __Configure Anki card format…__ and select your mining deck and card type and close the window.
 4. Now click on __Configure Anki card templates…__ and paste in your template.
 
-Test if your mining setup works by clicking on the green add button in the popup window example.
+Test if your mining setup works by clicking on the green add button in the popup window example. Check if a card was created by looking in your mining deck.
 
 ![Yomitan Demo](img/yomidemomining.png)
