@@ -33,3 +33,15 @@ repo_url: https://github.com/Timm04/timm04.github.io.git
 
 plugins:
   - offline
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
