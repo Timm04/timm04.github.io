@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Anki.html</loc>
-         <lastmod>2024-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://mydomain.org/mysite/Card%20Templates.html</loc>
          <lastmod>2024-10-01</lastmod>
          <changefreq>daily</changefreq>
@@ -31,12 +26,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Writing%20System.html</loc>
+         <loc>https://mydomain.org/mysite/Setup%20Anki.html</loc>
          <lastmod>2024-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Yomitan.html</loc>
+         <loc>https://mydomain.org/mysite/Setup%20Yomitan.html</loc>
+         <lastmod>2024-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://mydomain.org/mysite/Writing%20System.html</loc>
          <lastmod>2024-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
