@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mydomain.org/mysite/index.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Card%20Templates.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/Mindset%20and%20Mental%20Game.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <loc>https://mydomain.org/mysite/Methodology%20and%20Mindset.html</loc>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Pronunciation.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Roadmap.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Setup%20Anki.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Setup%20Yomitan.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://mydomain.org/mysite/Writing%20System.html</loc>
-         <lastmod>2024-10-01</lastmod>
+         <lastmod>2024-10-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
